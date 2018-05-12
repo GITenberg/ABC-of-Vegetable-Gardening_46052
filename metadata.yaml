@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '31205'
     url: http://www.gutenberg.org/2009/agents/31205
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46052#ABC-of-Vegetable-Gardening
 gutenberg_issued: '2014-06-20'
 gutenberg_type: Text
 identifiers:
