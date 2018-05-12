@@ -1,0 +1,30 @@
+_repo: ABC-of-Vegetable-Gardening_46052
+_version: 0.1.0
+alternative_title: ABC of Vegetable Gardening
+covers:
+- cover_type: archival
+  image_path: 46052-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rexford, Eben E. (Eben Eugene)
+    alias: Rexford, Eben Eugene
+    birthdate: 1848
+    deathdate: 1916
+    gutenberg_agent_id: '31205'
+    url: http://www.gutenberg.org/2009/agents/31205
+description: ''
+gutenberg_issued: '2014-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46052'
+  lccn: '16005337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Harper's A-B-C series
+subjects:
+- !lcsh 'Vegetable gardening'
+- !lcc 'SB'
+title: A-B-C of Vegetable Gardening
+url: http://www.gutenberg.org/ebooks/46052
